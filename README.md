@@ -1,19 +1,44 @@
-<h2 align="center">VERIFICADOR DE IDADE</h2>
+# <h2 align="center">🔍 Verificador de Idade 🔍</h2>
 
-###
+<p align="center">
+  🚀 Projeto desenvolvido como sequência ao <strong>"Verificador de Horas"</strong>.  
+  Agora, um <strong>Verificador de Idade</strong>, onde o usuário informa o <strong>ano de nascimento</strong> e o <strong>gênero</strong>.  
+  Com base nos dados informados, o sistema exibe uma <strong>imagem representando a faixa etária</strong> (jovem, adulto ou idoso).
+</p>
 
-<p align="center">-Projeto em sequência ao "Verificador de horas". Agora um Verificador e Idade, onde o usuário informa o ano de nascimento e seu gênero. De acordo com os dados informados, será apresentado uma imagem simbolizando a idade (jovem,adulto,idoso)</p>
+---
 
-![image](https://github.com/user-attachments/assets/80cb84a5-740e-42e2-b01d-45fa01c6d199)
-
-![image](https://github.com/user-attachments/assets/f403712b-4ae8-4575-97a8-cc7f60c2a83a)
-
-![image](https://github.com/user-attachments/assets/0ccecf03-0131-437d-9b6b-54e20fffaabc)
+## 📷 Demonstração  
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img height="300" src="https://github.com/user-attachments/assets/80cb84a5-740e-42e2-b01d-45fa01c6d199" />
+  <img height="300" src="https://github.com/user-attachments/assets/0ccecf03-0131-437d-9b6b-54e20fffaabc" />
 </div>
+
+---
+
+## 🚀 Tecnologias utilizadas  
+
+
+- ✅ **HTML5** - Estruturação da página  
+- ✅ **CSS3** - Estilização e responsividade  
+- ✅ **JavaScript** - Processamento dos dados do usuário e exibição dinâmica da imagem  
+
+---
+
+## 🛠 Melhorias futuras  
+
+🔹 Melhorar a acessibilidade com feedbacks auditivos e mensagens mais detalhadas  
+🔹 Criar uma versão mais interativa com animações suaves  
+🔹 Permitir o envio de imagens personalizadas pelo usuário  
+
+---
+
+## 📩 Contato  
+
+📧 **Email:** [vitorassis997@gmail.com](mailto:seuemail@email.com)  
+👨‍💻 **GitHub:** [github.com/vitorhassis](https://github.com/seuusuario)  
+
+---
+
+<p align="center">⚡ <em>Desenvolvido por Vitor Assis</em> ⚡</p>
